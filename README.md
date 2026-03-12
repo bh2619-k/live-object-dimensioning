@@ -16,18 +16,18 @@
   Real-time object size measurement is a challenging problem in computer vision. It is required in many applications, such as self-driving cars, robotics, and manufacturing. The goal of this project is to develop a real-time object size measurement system using computer vision. The proposed system will use a camera to capture images of objects. The images will then be processed using computer vision algorithms to identify and segment the objects. This can help identify defects or variations in size that could lead to product quality issues. Real-time object size measurement can help optimize manufacturing processes by providing immediate feedback on product dimensions. The measurements can be utilized in various applications, such as automatic parking solutions, self-driving automobiles and e-commerce platforms to determine the size of the object. This allows for adjustments and corrections to be made quickly, reducing waste and improving efficiency.
 </p>
 
-# Image Acquisition 
+# Image Acquisition
+
 <h4>Input<h4>
   
-![1](https://github.com/SHARANADHITHYAS/Real-Time-Object-Size-Measurement/blob/main/Image%20Acquisition%20(input).png?raw=true)<br>
+![1](https://github.com/bh2619-k/live-object-dimensioning/blob/main/Image%20Acquisition%20(input).png?raw=true)<br>
 
 <h4>Output</h4>
 
-![](https://github.com/SHARANADHITHYAS/Real-Time-Object-Size-Measurement/blob/main/Final%20Output.png?raw=true)
+![](https://github.com/bh2619-k/live-object-dimensioning/blob/main/Final%20Output.png?raw=true)
 
 # Conclusion
 
 <p>
   A real-time object size measurement system was developed using computer vision techniques. we have used computer vision because it helps computers to process, analyze, and understand the digital videos. The proposed work shows the application of computer vision that exhibits a significant level of accuracy for object detection and dimension measurement. The suggested work is used in getting the dimensions of the objects with an accuracy of over 95% most of the times, these dimensions are used in calculation of the area occupied by the object. Our proposed work can find various applications, including every day use, e-commerce applications, Industrial use and AI Automobiles, e.t.c... Enhanced quality control in manufacturing processes. Improved logistics and inventory management. Potential for automation and cost savings in various industries. Real-time object size measurement projects should be adaptable to different scenarios and environmental conditions. Flexibility in camera placement, lighting conditions, and object variations is crucial. A real-time object size measurement project is a complex and valuable application of computer vision and image processing techniques. This project involves capturing images or video frames of objects and accurately determining their size in real-time. 
 </p>
-
